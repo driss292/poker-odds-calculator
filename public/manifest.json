@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Poker Odds Calculator",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "description": "A plain-text description",
+  "icons": {
+    "32": "icon32.png"
+  }
+}
